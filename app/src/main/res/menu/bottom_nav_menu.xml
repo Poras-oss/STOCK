@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Dashboard"
+        android:title="Person" />
+       <!-- android:icon="@drawable/ic_dashboard"-->/>
+    <item
+        android:id="@+id/Community"
+        android:title="Home" />
+        <!--android:icon="@drawable/ic_community"-->/>
+    <item
+        android:id="@+id/Watchlist"
+        android:title="Settings" />
+       <!-- android:icon="@drawable/ic_watchlist"-->/>
+</menu>
